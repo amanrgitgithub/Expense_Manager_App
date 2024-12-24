@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "261152584675",
+    "firebase_url": "https://expense-375e3-default-rtdb.firebaseio.com",
+    "project_id": "expense-375e3",
+    "storage_bucket": "expense-375e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261152584675:android:4b54c9518b0f7b430de6d6",
+        "android_client_info": {
+          "package_name": "com.example.expenses"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQhnwgNCqE1m35JV-hNcQO7NupQB2AGXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
